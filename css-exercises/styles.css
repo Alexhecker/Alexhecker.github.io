@@ -3,19 +3,28 @@
 <title>HTML Tutorial</title>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+#id1 {
 
-h1 {
   color: green;
   font-family: verdana;
 }
 
 
-p {
-  color:red;
+#id2 { 
+  text-align: center;
+  color: red;
+}
+ 
+.bluev p {
+  color: blue;
+  font-family: verdana;
 }
 
+.center {
+  text-align: center;
+  color: red;
+}
+  
 
 </body>
 </html>
