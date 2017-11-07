@@ -3,6 +3,8 @@ body {
   font-family: "Courier New", Times, serif;
 }
 
+
 body {
     background-image: url("gradient_bg.png");
     background-repeat: repeat-x;
+}
