@@ -12,3 +12,11 @@ div {
     text-align: center;
     border: 3px solid green;
 }
+
+.tabledata td {
+    border: 3px solid green;
+}
+
+.tableheader th {
+    border: 3px solid green;
+}
