@@ -10,3 +10,11 @@
 img {
   width:100%;
 }
+.tableh th {
+  border: 1px solid black;
+}
+
+.tabled td {
+  border: 1px solid black;
+}
+
