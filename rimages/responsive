@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<h1>This is a heading</h1>
+   <div>
+     <img src='/images/ismall-1000.jpg'
+        srcset='/images/OriginalSun.jpg 5700w,
+                /images/LargeSun.jpg 3500w,
+                /images/MediumSun.jpg 2000w,
+                /images/SmallSun.jpg 1000w'>
+   </div>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
