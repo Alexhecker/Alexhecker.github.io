@@ -6,7 +6,7 @@
 
 <h1>This is a heading</h1>
    <div>
-     <img src='/images/ismall-1000.jpg'
+     <img src='/images/SmallSun.jpg'
         srcset='/images/OriginalSun.jpg 5700w,
                 /images/LargeSun.jpg 3500w,
                 /images/MediumSun.jpg 2000w,
